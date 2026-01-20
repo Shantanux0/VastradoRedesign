@@ -1,6 +1,6 @@
 import { useEffect } from 'react';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
-import Lenis from '@studio-freight/lenis';
+import Lenis from 'lenis';
 import { Home } from './pages/Home';
 import { Shop } from './pages/Shop';
 import { Story } from './pages/Story';

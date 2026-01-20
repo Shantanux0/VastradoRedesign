@@ -1,4 +1,3 @@
-import { useRef } from 'react';
 import { Hero } from '../components/sections/Hero';
 import { BrandStory } from '../components/sections/BrandStory';
 import { FabricTexture } from '../components/sections/FabricTexture';
